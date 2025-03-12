@@ -1,0 +1,5 @@
+customerId,name,email,phone,loyaltyPoints
+CUST001,John Smith,john.smith@email.com,+94771234567,150
+CUST002,Sarah Johnson,sarah.j@email.com,+94777654321,75
+CUST003,Michael Brown,mike.brown@email.com,+94765432198,200
+CUST004,Emily Davis,emily.d@email.com,+94712345678,100
